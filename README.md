@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=adem522&theme=vue&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
