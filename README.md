@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=adem522&theme=vue&show_icons=true)
-[![Adem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adem522)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **adem522/adem522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
