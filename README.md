@@ -1,6 +1,27 @@
 ### Hi there 👋
 ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=adem522&theme=vue&show_icons=true)
 
+### 🛠 &nbsp;Tech Stack
+
+- 🌐 &nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![VUE](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
+- 💻 &nbsp;
+  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
+  ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-333333?style=flat&logo=c%2B%2B&logoColor=white)
+  ![GOLANG](https://img.shields.io/badge/Go-333333?style=flat&logo=go&logoColor=white)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
+  ![HEROKU](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=white)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 <!--
