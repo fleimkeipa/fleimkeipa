@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=adem522&theme=vue&show_icons=true)
+![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=adem522&theme=dark&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adem522&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
