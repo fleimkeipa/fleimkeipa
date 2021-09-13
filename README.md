@@ -5,14 +5,16 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
+  ![VUE](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![VUE](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
+  
 - 💻 &nbsp;
+  ![GOLANG](https://img.shields.io/badge/Go-333333?style=flat&logo=go&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
   ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-333333?style=flat&logo=c%2B%2B&logoColor=white)
-  ![GOLANG](https://img.shields.io/badge/Go-333333?style=flat&logo=go&logoColor=white)
+
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
