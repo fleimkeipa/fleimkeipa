@@ -6,9 +6,12 @@
 
 ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=fleimkeipa&theme=dark&show_icons=true)
 
-</details>
 
-### 🛠 &nbsp;Tech Stack
+
+
+<details>
+    <summary> <samp>🛠 Tech Stack</samp></summary>
+<br/>
 - 🌐 &nbsp;
   ![VUE](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -30,7 +33,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+</details>
 
 <!--
 **adem522/adem522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
