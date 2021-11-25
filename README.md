@@ -2,13 +2,13 @@
 
 
 
-### 🛠 &nbsp;Tech Stack
 
-</details>
+### 🛠 &nbsp;Tech Stack
 
 <details>
     <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
+
 ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=fleimkeipa&theme=dark&show_icons=true)
 
 </details>
