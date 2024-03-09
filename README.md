@@ -1,18 +1,8 @@
 ### Hi there 👋
 
-<details>
-    <summary> <samp>📈 GitHub stats</samp></summary>
-<br/>
 
-![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=fleimkeipa&theme=dark&show_icons=true)
-</details>
-
-
-
-<details>
-    <summary> <samp>🛠 Tech Stack</samp></summary>
-<br/>
-    
+#### Tech Stack
+   
 - 🌐 &nbsp;
     ![VUE](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
   
